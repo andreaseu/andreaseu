@@ -433,12 +433,26 @@
 
 					</section>
 
+					<!-- Five -->
+						<section class="wrapper style1 align-center" id="instagram">
+							<div class="inner">
+								<h2>Instagram</h2>
+								<p>You don't always have the big digital camera with the good lens with you, but you do have your mobile phone and Instagram. <br>Over the last few years, a remarkable photo feed has been created.</p>
+								<!-- LightWidget WIDGET -->
+								<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/4e02ee2a4899535cadf09227a1b484a0.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>								<p></p>
+								<ul class="actions stacked">
+									<li><a href="https://www.instagram.com/zeitraubend" target="_blank" class="button  icon fa-instagram" >Show more</a></li>
+								</ul>
+							</div>
+						</section>
+
 						<!-- Six -->
 							<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="whoiam">
 								<div class="content">
 									<h2>Keep in Touch</h2>
 									<p>On the following platforms you can connect me and follow me on my adventures through the world.</p>
 									<ul class="actions">
+										<li><a href="https://www.instagram.com/zeitraubend" target="_blank" class="button  icon fa-instagram fit small">Instagram</a></li>
 										<li><a href="https://twitter.com/zeitraubend" target="_blank" class="button icon fa-twitter fit small">Twitter</a></li>
 										<li><a href="https://www.xing.com/profile/Andreas_Haehnel2" target="_blank" class="button icon fa-xing fit small">Xing</a></li>
 									</ul>
